@@ -1,0 +1,416 @@
+@-webkit-keyframes animationThirdDiv {
+   0% {
+       transform: rotateY(0deg) translateZ(400px);
+       opacity: 1;
+   }
+   25% {
+       left: 440px;
+       top: 400px;
+       transform: rotateY(100deg) translateZ(0px) rotateX(720deg);
+       opacity: 0.5;
+   }
+   50% {
+       left: 290px;
+       transform: rotateY(180deg) translateZ(400px);
+       opacity: 0.2;
+       font-size: 0px;
+       border-radius: 700px;
+   }
+   75% {
+       left: 140px;
+       transform: rotateY(260deg) translateZ(0px);
+       opacity: 0.5;
+   }
+   100% {
+       left: 290px;
+       transform: rotateY(360deg) translateZ(400px);
+       opacity: 1;
+   }
+}
+@keyframes animationThirdDiv {
+    0% {
+        transform: rotateY(0deg) translateZ(400px);
+        opacity: 1;
+    }
+    25% {
+        left: 440px;
+        top: 400px;
+        transform: rotateY(100deg) translateZ(0px) rotateX(720deg);
+        opacity: 0.5;
+    }
+    50% {
+        left: 290px;
+        transform: rotateY(180deg) translateZ(400px);
+        opacity: 0.2;
+        font-size: 0px;
+        border-radius: 700px;
+    }
+    75% {
+        left: 140px;
+        transform: rotateY(260deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    100% {
+        left: 290px;
+        transform: rotateY(360deg) translateZ(400px);
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes animationFirstDiv {
+    0% {
+        left: 290px;
+        transform: rotateY(-180deg) translateZ(400px);
+        opacity: 0.2;
+        font-size: 0px;
+    }
+    25% {
+        left: 140px;
+        top: 400px;
+        transform: rotateY(-100deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    50% {
+        left: 290px;
+        transform: rotateY(0deg) translateZ(400px) rotateX(720deg);
+        opacity: 1;
+    }
+    75% {
+        left: 440px;
+        transform: rotateY(100deg) translateZ(0px);
+        opacity: 0.5;
+
+    }
+    100% {
+        left: 290px;
+        transform: rotateY(180deg) translateZ(400px);
+        opacity: 0.2;
+        border-radius: 700px;
+
+    }
+}
+@keyframes animationFirstDiv {
+    0% {
+        left: 290px;
+        transform: rotateY(-180deg) translateZ(400px);
+        opacity: 0.2;
+        font-size: 0px;
+    }
+    25% {
+        left: 140px;
+        top: 400px;
+        transform: rotateY(-100deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    50% {
+        left: 290px;
+        transform: rotateY(0deg) translateZ(400px) rotateX(720deg);
+        opacity: 1;
+    }
+    75% {
+        left: 440px;
+        transform: rotateY(100deg) translateZ(0px);
+        opacity: 0.5;
+
+    }
+    100% {
+        left: 290px;
+        transform: rotateY(180deg) translateZ(400px);
+        opacity: 0.2;
+        border-radius: 700px;
+
+    }
+}
+
+@-webkit-keyframes animationSecondDiv {
+    0% {
+        transform: rotateY(95deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    25% {
+        left: 290px;
+        top: 400px;
+        transform: rotateY(180deg) translateZ(400px);
+        opacity: 0.2;
+        font-size: 0px;
+        border-radius: 700px;
+    }
+    50% {
+        left: 140px;
+        transform: rotateY(260deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    75% {
+        left: 290px;
+        transform: rotateY(360deg) translateZ(400px) rotateX(720deg);
+        opacity: 1;
+    }
+    100% {
+        left: 440px;
+        transform: rotateY(460deg) translateZ(0px);
+        opacity: 0.5;
+    }
+}
+@keyframes animationSecondDiv {
+    0% {
+        transform: rotateY(95deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    25% {
+        left: 290px;
+        top: 400px;
+        transform: rotateY(180deg) translateZ(400px);
+        opacity: 0.2;
+        font-size: 0px;
+        border-radius: 700px;
+    }
+    50% {
+        left: 140px;
+        transform: rotateY(260deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    75% {
+        left: 290px;
+        transform: rotateY(360deg) translateZ(400px) rotateX(720deg);
+        opacity: 1;
+    }
+    100% {
+        left: 440px;
+        transform: rotateY(460deg) translateZ(0px);
+        opacity: 0.5;
+    }
+}
+
+@-webkit-keyframes animationFourthDiv {
+    0% {
+        transform: rotateY(260deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    25% {
+        left: 290px;
+        top: 400px;
+        transform: rotateY(360deg) translateZ(400px);
+        opacity: 1;
+
+    }
+    50% {
+        left: 440px;
+        transform: rotateY(460deg) translateZ(0px);
+        opacity: 0.5;
+
+    }
+    75% {
+        left: 290px;
+        transform: rotateY(540deg) translateZ(400px);
+        opacity: 0.2;
+
+
+    }
+    100% {
+        left: 140px;
+        transform: rotateY(630deg) translateZ(0px) rotateX(720deg);
+        opacity: 0.5;
+        font-size: 0px;
+          border-radius: 700px;
+    }
+}
+@keyframes animationFourthDiv {
+    0% {
+        transform: rotateY(260deg) translateZ(0px);
+        opacity: 0.5;
+    }
+    25% {
+        left: 290px;
+        top: 400px;
+        transform: rotateY(360deg) translateZ(400px);
+        opacity: 1;
+
+    }
+    50% {
+        left: 440px;
+        transform: rotateY(460deg) translateZ(0px);
+        opacity: 0.5;
+
+    }
+    75% {
+        left: 290px;
+        transform: rotateY(540deg) translateZ(400px);
+        opacity: 0.2;
+
+
+    }
+    100% {
+        left: 140px;
+        transform: rotateY(630deg) translateZ(0px) rotateX(720deg);
+        opacity: 0.5;
+        font-size: 0px;
+          border-radius: 700px;
+    }
+}
+
+@-webkit-keyframes animationNinethDiv {
+    0% {
+        left: 660px;
+        top: 600px;
+        opacity: 1;
+        transform: translateZ(0px);
+        font-size: 60px;
+        background-image: linear-gradient(to bottom, rgba(146,251,252,0.4) 20%, rgba(28,238,240,1));
+    }
+    25% {
+        left: 660px;
+        top: 280px;
+        opacity: 0.5;
+        transform: translateZ(400px);
+        font-size: 30px;
+        background-image: linear-gradient(to bottom, rgba(240,130,131,0.4) 20%, rgba(217,64,65,1));
+    }
+    50% {
+        left: 660px;
+        top: 600px;
+        opacity: 0.5;
+        transform: translateZ(0px);
+        font-size: 60px;
+        background-image: linear-gradient(to bottom, rgba(252,249,139,0.4) 20%, rgba(227,222,37,1));
+    }
+    75% {
+        left: 660px;
+        top: 280px;
+        opacity: 0.5;
+        font-size: 30px;
+        transform: translateZ(400px);
+        background-image: linear-gradient(to bottom, rgba(153,205,156,0.4) 20%, rgba(44,225,54,1));
+    }
+    100% {
+        left: 660px;
+        top: 600px;
+        opacity: 1;
+        font-size: 60px;
+        transform: translateZ(0px);
+        background-image: linear-gradient(to bottom, rgba(146,251,252,0.4) 20%, rgba(28,238,240,1));
+    }
+}
+@keyframes animationNinethDiv {
+    0% {
+        left: 660px;
+        top: 600px;
+        opacity: 1;
+        transform: translateZ(0px);
+        font-size: 60px;
+        background-image: linear-gradient(to bottom, rgba(146,251,252,0.4) 20%, rgba(28,238,240,1));
+    }
+    25% {
+        left: 660px;
+        top: 280px;
+        opacity: 0.5;
+        transform: translateZ(400px);
+        font-size: 30px;
+        background-image: linear-gradient(to bottom, rgba(240,130,131,0.4) 20%, rgba(217,64,65,1));
+    }
+    50% {
+        left: 660px;
+        top: 600px;
+        opacity: 0.5;
+        transform: translateZ(0px);
+        font-size: 60px;
+        background-image: linear-gradient(to bottom, rgba(252,249,139,0.4) 20%, rgba(227,222,37,1));
+    }
+    75% {
+        left: 660px;
+        top: 280px;
+        opacity: 0.5;
+        transform: translateZ(400px);
+        font-size: 30px;
+        background-image: linear-gradient(to bottom, rgba(153,205,156,0.4) 20%, rgba(44,225,54,1));
+    }
+    100% {
+        left: 660px;
+        top: 600px;
+        opacity: 1;
+        transform: translateZ(0px);
+        font-size: 60px;
+        background-image: linear-gradient(to bottom, rgba(146,251,252,0.4) 20%, rgba(28,238,240,1));
+    }
+}
+
+
+body {
+    perspective: 3000px;
+    perspective-origin: 650px -250px;
+}
+
+div {
+    width: 220px;
+    margin: 20px auto;
+    position: absolute;
+    height: 160px;
+    color: #fff;
+    font-size: 50px;
+    text-align: center;
+    line-height: 160px;
+    opacity: 0.8;
+    font-weight: bold;
+    border-radius: 30px;
+}
+
+.first {
+    transform: translateZ(-400px) rotateY(-180deg);
+    left: 290px;
+    top: 90px;
+    font-size: 42px;
+    background-image: linear-gradient(to bottom, rgba(146,251,252,0.4) 20%, rgba(28,238,240,1));
+}
+.first {
+    -webkit-animation: animationFirstDiv 8s;
+    animation: animationFirstDiv 8s;
+    animation-iteration-count: infinite;
+}
+.second {
+    transform: translateZ(0px) rotateY(100deg);
+    left: 440px;
+    top: 90px;
+    font-size: 42px;
+    background-image: linear-gradient(to bottom, rgba(240,130,131,0.4) 20%, rgba(217,64,65,1));
+}
+.second {
+    -webkit-animation: animationSecondDiv 8s;
+    animation: animationSecondDiv 8s;
+    animation-iteration-count: infinite;
+}
+.third {
+    transform: translateZ(400px) rotateY(0);
+    left: 290px;
+    top: 90px;
+    font-size: 42px;
+    background-image: linear-gradient(to bottom, rgba(252,249,139,0.4) 20%, rgba(227,222,37,1));
+}
+.third {
+    -webkit-animation: animationThirdDiv 8s;
+    animation: animationThirdDiv 8s;
+    animation-iteration-count: infinite;
+}
+.fourth {
+    transform: translateZ(0px) rotateY(260deg) rotateZ(4deg);
+    left: 140px;
+    top: 90px;
+    font-size: 42px;
+    background-image: linear-gradient(to bottom, rgba(153,205,156,0.4) 20%, rgba(44,225,54,1));
+}
+.fourth {
+    -webkit-animation: animationFourthDiv 8s;
+    animation: animationFourthDiv 8s;
+    animation-iteration-count: infinite;
+}
+.nineth {
+    transform: translateZ(0px) /*rotateX(80deg)*/;
+    left: 660px;
+    top: 480px;
+    border-radius: 1000px;
+    width: 180px;
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0.2) 20%, rgba(0,0,0,1));
+}
+.nineth {
+    -webkit-animation: animationNinethDiv 900ms;
+    animation: animationNinethDiv 900ms;
+    animation-iteration-count: infinite;
+}
